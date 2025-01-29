@@ -1,2 +1,2 @@
 # Angular-Web-App
-A simple Web App built in Angular.
+This web application is built with the node.js backend framework, express, and Angular as the front-end framework.
